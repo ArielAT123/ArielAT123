@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👨‍💻 Ariel Arias La Cabra J.E.
+# 👨‍💻 Ariel Arias
 
 ### Ingeniero de Computación | Desarrollador Full Stack
 
